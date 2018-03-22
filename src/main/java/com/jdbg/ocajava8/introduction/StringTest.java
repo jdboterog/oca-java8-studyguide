@@ -1,4 +1,4 @@
-package introduction;
+package com.jdbg.ocajava8.introduction;
 
 public class StringTest {
 
